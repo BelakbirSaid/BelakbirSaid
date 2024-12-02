@@ -31,6 +31,16 @@
 - IBM DB2, Oracle SQL, Crystal Reports  
 
 ---
+# GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+---
+## Contribution Activity
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=react-dark)
+---
 
 ## 🌟 **Languages & Tools**
 - **Programming Languages:** Python, C#, JavaScript, TypeScript, R, Java  
