@@ -32,11 +32,6 @@
 
 ---
 
-### 🔗 **GitHub Activity**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saidbelakbir&layout=compact&theme=radical&hide=html,css)
-
----
-
 ## 🌟 **Languages & Tools**
 - **Programming Languages:** Python, C#, JavaScript, TypeScript, R, Java  
 - **Frameworks:** ASP.NET Core (MVC), Flask, Express.js  
