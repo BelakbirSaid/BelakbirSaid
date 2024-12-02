@@ -31,14 +31,18 @@
 - IBM DB2, Oracle SQL, Crystal Reports  
 
 ---
-# GitHub Stats
+## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Said's GitHub stats](https://github-readme-stats.vercel.app/api?username=BelakbirSaid&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BelakbirSaid&layout=compact&theme=radical)
 
 ---
-## Contribution Activity
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=react-dark)
+## 🖇 Contribution Activity
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=BelakbirSaid&theme=react-dark)
+
 ---
 
 ## 🌟 **Languages & Tools**
