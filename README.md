@@ -31,25 +31,17 @@
 - IBM DB2, Oracle SQL, Crystal Reports  
 
 ---
-## 📊 GitHub Stats
 
-![Said's GitHub stats](https://github-readme-stats.vercel.app/api?username=BelakbirSaid&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BelakbirSaid&layout=compact&theme=radical)
-
----
-
-## 🖇 Contribution Activity
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=BelakbirSaid&theme=react-dark)
-
----
 
 ## 🌟 **Languages & Tools**
 - **Programming Languages:** Python, C#, JavaScript, TypeScript, R, Java  
 - **Frameworks:** ASP.NET Core (MVC), Flask, Express.js  
 - **Dev Tools:** Git, Azure DevOps, Kubernetes, Docker Compose  
 - **Automation:** Jenkins, Terraform, Ansible  
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BelakbirSaid&layout=compact&theme=radical)
+
 
 ---
 
