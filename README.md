@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hello, I'm Said Belakbir  
 
-<!--
-**BelakbirSaid/BelakbirSaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Tech Lead | Technology Enthusiast**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **My Tech Arsenal**
+
+### 🚀 **Modern Tech Stacks**  
+- **DevOps & Cloud:**  
+  - Docker, Kubernetes, Azure DevOps, Jenkins, CI/CD Pipelines  
+  - Infrastructure as Code (IaC): Terraform, Ansible  
+  - Monitoring & Observability: Grafana, Prometheus  
+
+- **Backend Development:**  
+  - **Microservices & APIs:** ASP.NET Core, FastAPI, Django, Node.js  
+  - **Data Engineering:** Apache Kafka, RabbitMQ, PyTorch, TensorFlow  
+  - **Databases:** SQL Server, MongoDB, PostgreSQL, Redis  
+
+- **Frontend Development:**  
+  - Vue.js, React, Angular, Blazor, Next.js  
+
+- **MERN Stack:**  
+  - MongoDB, Express.js, React, Node.js  
+
+---
+
+### 🛠️ **Legacy & Enterprise Systems**  
+- COBOL, Visual Basic 6, .NET Full Framework  
+- LINQ-to-SQL, WinForms, WebForms  
+- IBM DB2, Oracle SQL, Crystal Reports  
+
+---
+
+### 🔗 **GitHub Activity**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saidbelakbir&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saidbelakbir&layout=compact&theme=radical&hide=html,css)
+
+---
+
+## 🌟 **Languages & Tools**
+- **Programming Languages:** Python, C#, JavaScript, TypeScript, R, Java  
+- **Frameworks:** ASP.NET Core (MVC), Flask, Express.js  
+- **Dev Tools:** Git, Azure DevOps, Kubernetes, Docker Compose  
+- **Automation:** Jenkins, Terraform, Ansible  
+
+---
+
+## 📬 **Let’s Connect**
+- **Email:** saidbelakbir.dev@gmail.com  
+- **LinkedIn:** [linkedin.com/in/said-belakbir](#)  
+
+---
